@@ -23,8 +23,26 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
+import tyranno_white from "./tyranno-monochrome-white.svg"
+import saphire from "./saphire.svg"
+import money from "./money.png"
+import programming from "./programming.svg"
+import support from "./support.svg"
+import hosting from "./hosting.svg"
+import bevy from "./bevy.svg"
+import tagaddod from "./tagaddod_logo.png"
+import lion_volt from "./LionVolt-logo.png"
+import muruku from "./muruku_logo.png"
+
 
 export {
+  tagaddod,
+  lion_volt,
+  bevy,
+  muruku,
+  support,
+  hosting,
+  programming,
   airbnb,
   bill,
   binance,
@@ -50,4 +68,7 @@ export {
   people01,
   people02,
   people03,
+  tyranno_white,
+  saphire,
+  money
 };

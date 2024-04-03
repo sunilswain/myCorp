@@ -27,12 +27,9 @@ const Business = () => {
   return (
     <section id='features' className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>You do the business, <br className='sm:block hidden'/>we'll handle the money.</h2>
+        <h2 className={styles.heading2}>Imagine it, <br className='sm:block hidden'/>Tyranno Tech builds it.</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          With the right credit card, 
-          you can improve your financial life by building credit,
-          earning rewards and saving money.
-          But with hundreds of credit cards on the market.
+          With Tyranno Tech, unleash the power of tailored solutions to elevate your business. From optimizing AI to crafting stellar websites, we've got you covered, making your vision a reality
         </p>
         <Button styles='mt-10'/>
       </div>

@@ -6,13 +6,13 @@ import {
   instagram, 
   linkedin, 
   twitter, 
-  airbnb, 
-  binance, 
-  coinbase, 
-  dropbox, 
-  send, 
+  muruku,
+  bevy,
+  tagaddod,
+  lion_volt,
   shield, 
-  star
+  saphire,
+  money
 } from "../assets";
 
 export const navLinks = [
@@ -37,24 +37,24 @@ export const navLinks = [
 export const features = [
   {
     id: "feature-1",
-    icon: star,
-    title: "Rewards",
+    icon: saphire,
+    title: "Cutting-Edge Solutions",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Harness the latest advancements in AI, machine learning, and web development to stay ahead of the curve",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "With state-of-the-art security measures and vigilant monitoring, your information is protected against cyber threats,",
   },
   {
     id: "feature-3",
-    icon: send,
-    title: "Balance Transfer",
+    icon: money,
+    title: "Cost-Effective Innovation",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Enjoy top-tier services at competitive prices, maximizing your return on investment without compromising quality",
   },
 ];
 
@@ -62,25 +62,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "Outstanding service! The team at Tyranno Tech not only delivered exceptional results but also provided invaluable support post-launch. Highly recommended!",
+    name: "Emily Chen",
+    title: "Head of Product Development",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
+      "5-star support! Tyranno Tech handled technical details flawlessly",
+    name: "David Smith",
     title: "Founder & Leader",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "Couldn't be happier with the hosting solutions provided by Tyranno Tech. They found the perfect balance between affordability and reliability. A trustworthy partner indeed!",
+    name: "Alex Nguyenh",
+    title: "Finance Manager",
     img: people03,
   },
 ];
@@ -88,18 +88,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Lines Of Code",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Projects",
+    value: "100+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Happy clients",
+    value: "200+",
   },
 ];
 
@@ -195,18 +195,18 @@ export const socialMedia = [
 export const clients = [
   {
     id: "client-1",
-    logo: airbnb,
+    logo: muruku,
   },
   {
     id: "client-2",
-    logo: binance,
+    logo: bevy,
   },
   {
     id: "client-3",
-    logo: coinbase,
+    logo: tagaddod,
   },
   {
     id: "client-4",
-    logo: dropbox,
+    logo: lion_volt,
   },
 ];
