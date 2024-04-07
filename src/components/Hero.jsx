@@ -13,8 +13,8 @@ const Hero = () => {
             className='w-[32px] h-[32px]'
           />
           <p className={`${styles.paragraph} ml-2`}>
-            <span className='text-white'>20%</span> Discount For {" "}
-            <span className='text-white'>1 Month</span> Account
+            <span className='text-white'>Huge</span> Discounts For the{" "}
+            <span className='text-white'> customers of April</span> 
           </p>
         </div>
         <div className='flex flex-row justify-between items-center w-full'>
